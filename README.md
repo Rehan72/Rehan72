@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-- 🌱 Learning **Bun, Next.js 15, Golang**<br>- 🧩 3.5+ years experience in **React, UI/UX & Frontend Engineering**<br>- 🧪 Worked on **EV Charging Management System**, Admin Panels, Job Portals  <br>- 🔥 Passionate about creating clean UI, dashboards & automation  <br>- 💬 Ask me about **React, JavaScript, MERN, Tailwind, Redux, APIs**
+- 🌱 Learning **Bun, Next.js 15, Golang**<br>- 🧩 5.5+ years experience in **React, UI/UX & Frontend Engineering**<br>- 🧪 Worked on **EV Charging Management System**, Admin Panels, Job Portals  <br>- 🔥 Passionate about creating clean UI, dashboards & automation  <br>- 💬 Ask me about **React, JavaScript, MERN, Tailwind, Redux, APIs**
 
 
 ## 🌐 Socials:
